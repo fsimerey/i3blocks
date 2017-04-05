@@ -22,5 +22,5 @@ if [[ "${status}" == "on" ]]; then
 else
   echo "mute"
   echo "mute"
-  echo ""
+  echo "#FF0000"
 fi
